@@ -17,6 +17,11 @@ I build backend systems and distributed architectures, mostly in PHP (Symfony, L
 
 - **[OnFlyApp/cli](https://github.com/OnFlyApp/cli)**: Onfly, a searchable, structural map of your codebase for AI assistants, served over MCP.
 
+## 📦 Open source
+
+- **[phpunit-ai-evals](https://github.com/axitdev/phpunit-ai-evals)**: PHPUnit extension that records LLM calls to JSON cassettes and replays them. Trace assertions, prompt diffs, and LLM-as-a-judge, cached for CI.
+- **[phpunit-ai-evals-examples](https://github.com/axitdev/phpunit-ai-evals-examples)**: a refund agent, a classifier, streaming, and Laravel Http, tested with that extension. Cassettes are committed, so the suite runs without an API key.
+
 ## 🛠 Tech
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
