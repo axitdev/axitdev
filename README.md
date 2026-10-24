@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** · Cracow, Poland 🇵🇱 · Remote
 
-I build backend systems and distributed architectures, mostly in PHP (Symfony, Laravel). I've taken complex systems from zero to 100k+ users, and I like modernizing developer workflows with AI agents and automation.
+I build backend systems and distributed architectures, mostly in PHP and Go. I've taken complex systems from zero to 100k+ users, and I like modernizing developer workflows with AI agents and automation.
 
 ## 🔭 What I do
 
@@ -11,13 +11,11 @@ I build backend systems and distributed architectures, mostly in PHP (Symfony, L
 - Splitting monoliths into decoupled services
 - Custom AI agents, MCP, and workflow automation (n8n)
 
-## 🧪 Side projects
+## 🧪 Open Source
 
-**[OnFlyApp](https://github.com/OnFlyApp)** is an experimental organization I run just for fun. Expect half-finished ideas and things that break.
+* **[phpunit-ai-evals](https://github.com/axitdev/phpunit-ai-evals)** records LLM calls in PHPUnit and replays them. Trace assertions, prompt diffs, and LLM-as-a-judge, cached for CI.
 
-- **[OnFlyApp/cli](https://github.com/OnFlyApp/cli)**: Onfly, a searchable, structural map of your codebase for AI assistants, served over MCP.
-
-**[phpunit-ai-evals](https://github.com/axitdev/phpunit-ai-evals)** records LLM calls in PHPUnit and replays them. Trace assertions, prompt diffs, and LLM-as-a-judge, cached for CI. [Examples](https://github.com/axitdev/phpunit-ai-evals-examples).
+* **[OnFlyApp](https://github.com/OnFlyApp)** is an experimental organization I run just for fun. Expect half-finished ideas and things that break.
 
 ## 🛠 Tech
 
